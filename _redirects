@@ -1,1 +1,4 @@
 / https://baoshuo.ren
+/blog https://blog.baoshuo.ren
+/blog/ /blog
+/blog/* https://blog.baoshuo.ren/post/:splat
