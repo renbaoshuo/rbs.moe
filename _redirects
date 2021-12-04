@@ -2,3 +2,5 @@
 /blog https://blog.baoshuo.ren
 /blog/ /blog
 /blog/* https://blog.baoshuo.ren/post/:splat
+/oi https://oi.baoshuo.ren
+/oi/* https://oi.baoshuo.ren/:splat
