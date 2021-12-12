@@ -1,6 +1,6 @@
-/ https://baoshuo.ren
-/blog https://blog.baoshuo.ren
-/blog/ /blog
-/blog/* https://blog.baoshuo.ren/post/:splat
-/oi https://oi.baoshuo.ren
-/oi/* https://oi.baoshuo.ren/:splat
+/ https://baoshuo.ren 307
+/blog https://blog.baoshuo.ren 307
+/blog/ /blog 307
+/blog/* https://blog.baoshuo.ren/post/:splat 307
+/oi https://oi.baoshuo.ren 307
+/oi/* https://oi.baoshuo.ren/:splat 307
