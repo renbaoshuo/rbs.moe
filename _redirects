@@ -4,3 +4,4 @@
 /blog/* https://blog.baoshuo.ren/post/:splat?utm_source=rbs.moe&utm_medium=redirect 307
 /oi https://oi.baoshuo.ren/?utm_source=rbs.moe&utm_medium=redirect 307
 /oi/* https://oi.baoshuo.ren/:splat?utm_source=rbs.moe&utm_medium=redirect 307
+/ssh.sh https://gist.github.com/renbaoshuo/f4ba93f0cc895862a99c7daa8b61cffa/raw/34297d6ef66e54d903663cdb4277d1f121c598ec/ssh.sh 307
